@@ -1,0 +1,10 @@
+.buttons-container {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.buttons-container button {
+  min-width: 68px;
+  min-height: 40px;
+}

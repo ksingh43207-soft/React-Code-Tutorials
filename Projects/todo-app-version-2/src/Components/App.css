@@ -1,0 +1,19 @@
+h1 {
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.todo-container button {
+  min-width: 80px;
+}
+
+.todo-items-container {
+  border: 1px solid #eaeaea;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}

@@ -1,0 +1,16 @@
+h1{
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.todo-container .custom-row {
+  margin-top: 16px;
+}
+
+.todo-container button {
+  min-width: 80px;
+}
