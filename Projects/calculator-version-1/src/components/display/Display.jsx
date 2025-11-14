@@ -1,7 +1,7 @@
-const Display = ()=> {
+const Display = ({displayValue})=> {
   return(
     <>
-      <input type="text" id="display" className="form-control" placeholder="Enter a number" />
+      <input type="text" id="display" className="form-control"  value={displayValue} readOnly />
     </>
   );
 }
