@@ -61,7 +61,6 @@ const TodoItemsContextProvider = ( {children} ) => {
           deleteItem,
         }}
       >
-
         {children}
       </TodoItemsContext.Provider>
     </>
